@@ -1,0 +1,19 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div class="main-container" [@hiddenAnimation]='hide'>
+  <img class="face bye" src="https://api.adorable.io/avatars/9999" alt=""
+       [ngClass]="{'round_out': roundOut}"
+       [@faceAnimation]='state'
+       (@faceAnimation.done)='onLeave()'>
+
+  <div class="buttons">
+    <button class="bye button" on-mouseover='onRoundOut()' on-mouseleave='onLeave()'> Round out</button>
+    <button class="bye button" on-mouseover='onRotate()' on-mouseleave='onLeave()'> Rotate</button>
+    <button class="bye button" on-mouseover='onHinge()' on-mouseleave='onLeave()'> Hinge</button>
+    <button class="bye button" on-mouseover='onCrazy()' on-mouseleave='onLeave()'> Crazy time</button>
+    <button class="bye button" on-mouseover='onHide()' on-mouseleave='onLeave()'> Bye!</button>
+  </div>
+
+  <h1>
+    By Alejo Alvarez
+  </h1>
+</div>
