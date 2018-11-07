@@ -1,5 +1,5 @@
-#Angular Medellin
-##Challenge 1 - Faces
+# Angular Medellin
+## Challenge 1 - Faces
 
 My solution for **[Challenge 1](https://github.com/angular-medellin/meetup/blob/master/assets/2.%20challenges/1-random-face/readme.md)**
 

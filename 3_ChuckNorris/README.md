@@ -1,5 +1,5 @@
-#Angular Medellin
-##Challenge 3 - Chuck Norris Joke
+# Angular Medellin
+## Challenge 3 - Chuck Norris Joke
 
 My solution for **[Challenge 3](https://github.com/angular-medellin/meetup/blob/master/assets/2.%20challenges/3-chuck-norris-joke/readme.md)**
 

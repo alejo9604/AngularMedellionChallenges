@@ -1,5 +1,5 @@
-#Angular Medellin
-##Challenge 2 - Animation Faces
+# Angular Medellin
+## Challenge 2 - Animation Faces
 
 My solution for **[Challenge 2](https://github.com/angular-medellin/meetup/blob/master/assets/2.%20challenges/2-animation-face/readme.md)**
 
